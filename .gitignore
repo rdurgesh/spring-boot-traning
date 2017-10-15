@@ -18,6 +18,7 @@ target/
 *.war
 *.ear
 target/
+data/
 
 ### NetBeans ###
 nbproject/private/
